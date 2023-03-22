@@ -1,0 +1,2 @@
+# SimPel-Tarot
+Tarot Sitesi
